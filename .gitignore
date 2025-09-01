@@ -1,3 +1,45 @@
-.venv/
+# ---- Python ----
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# ---- Virtual Environments ----
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints
+*.ipynb_save
+
+# ---- Data & Models ----
+*.db
+*.sqlite3
+*.h5
+*.pkl
+*.joblib
+*.json
+
+# ---- Logs ----
+*.log
+
+# ---- Streamlit ----
+.streamlit/
+
+# ---- VSCode ----
+.vscode/
+*.code-workspace
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
