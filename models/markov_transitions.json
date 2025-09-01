@@ -1,0 +1,93 @@
+{
+  "HRBP": {
+    "HR Manager": 0.5161290322580645,
+    "HRBP": 0.4838709677419355
+  },
+  "HR Manager": {
+    "HR Manager": 1.0
+  },
+  "Senior HR Executive": {
+    "HRBP": 0.5625,
+    "Senior HR Executive": 0.4375
+  },
+  "Ops Associate": {
+    "Ops Associate": 0.4074074074074074,
+    "Senior Ops Associate": 0.5925925925925926
+  },
+  "Team Lead (Sales)": {
+    "Sales Manager": 0.5769230769230769,
+    "Team Lead (Sales)": 0.4230769230769231
+  },
+  "HR Executive": {
+    "HR Executive": 0.4444444444444444,
+    "Senior HR Executive": 0.5555555555555556
+  },
+  "Senior Ops Associate": {
+    "Senior Ops Associate": 0.38461538461538464,
+    "Ops Supervisor": 0.6153846153846154
+  },
+  "Senior Marketing Associate": {
+    "Brand Lead": 0.5833333333333334,
+    "Senior Marketing Associate": 0.4166666666666667
+  },
+  "Ops Supervisor": {
+    "Ops Supervisor": 0.36,
+    "Ops Manager": 0.64
+  },
+  "Brand Lead": {
+    "Marketing Manager": 0.6206896551724138,
+    "Brand Lead": 0.3793103448275862
+  },
+  "Junior Engineer": {
+    "Engineer": 0.6,
+    "Junior Engineer": 0.4
+  },
+  "Engineer": {
+    "Senior Engineer": 0.5416666666666666,
+    "Engineer": 0.4583333333333333
+  },
+  "Senior Engineer": {
+    "Tech Lead": 0.5714285714285714,
+    "Senior Engineer": 0.42857142857142855
+  },
+  "Senior Sales Associate": {
+    "Senior Sales Associate": 0.43478260869565216,
+    "Team Lead (Sales)": 0.5652173913043478
+  },
+  "Sales Associate": {
+    "Senior Sales Associate": 0.5263157894736842,
+    "Sales Associate": 0.47368421052631576
+  },
+  "Analyst": {
+    "Senior Analyst": 0.5714285714285714,
+    "Analyst": 0.42857142857142855
+  },
+  "Senior Analyst": {
+    "Team Lead (Finance)": 0.7142857142857143,
+    "Senior Analyst": 0.2857142857142857
+  },
+  "Marketing Manager": {
+    "Marketing Manager": 1.0
+  },
+  "Marketing Associate": {
+    "Senior Marketing Associate": 0.7142857142857143,
+    "Marketing Associate": 0.2857142857142857
+  },
+  "Team Lead (Finance)": {
+    "Finance Manager": 0.75,
+    "Team Lead (Finance)": 0.25
+  },
+  "Finance Manager": {
+    "Finance Manager": 1.0
+  },
+  "Sales Manager": {
+    "Sales Manager": 1.0
+  },
+  "Ops Manager": {
+    "Ops Manager": 1.0
+  },
+  "Tech Lead": {
+    "Tech Lead": 0.25,
+    "Engineering Manager": 0.75
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Sales Associate": [
+    "Negotiation Basics",
+    "CRM Deep Dive",
+    "Pitch Practice"
+  ],
+  "Senior Sales Associate": [
+    "Advanced Negotiation",
+    "Account Management"
+  ],
+  "Team Lead (Sales)": [
+    "Leadership Essentials",
+    "Coaching Sales Teams"
+  ],
+  "Sales Manager": [
+    "Strategic Sales Planning",
+    "Forecasting & Pipeline"
+  ],
+  "HR Executive": [
+    "Recruitment Fundamentals",
+    "HR Analytics 101"
+  ],
+  "Senior HR Executive": [
+    "Compensation & Benefits",
+    "Workforce Planning"
+  ],
+  "HRBP": [
+    "Business Partnering",
+    "Change Management"
+  ],
+  "HR Manager": [
+    "Designing HR Strategy",
+    "Labor Law Overview"
+  ],
+  "Junior Engineer": [
+    "Python for Data",
+    "Git & DevOps Basics"
+  ],
+  "Engineer": [
+    "System Design Basics",
+    "Cloud Practitioner"
+  ],
+  "Senior Engineer": [
+    "Advanced Algorithms",
+    "Microservices"
+  ],
+  "Tech Lead": [
+    "Leading Engineering Teams",
+    "Architecture Patterns"
+  ],
+  "Engineering Manager": [
+    "People Management",
+    "Roadmapping"
+  ],
+  "Analyst": [
+    "Advanced Excel & Reporting",
+    "Finance 101"
+  ],
+  "Senior Analyst": [
+    "Financial Modeling",
+    "Data Visualization"
+  ],
+  "Team Lead (Finance)": [
+    "Leadership Essentials",
+    "Risk & Controls"
+  ],
+  "Finance Manager": [
+    "Strategic Finance",
+    "Budgeting & Planning"
+  ],
+  "Ops Associate": [
+    "Lean Basics",
+    "Process Mapping"
+  ],
+  "Senior Ops Associate": [
+    "Root Cause Analysis",
+    "Inventory Control"
+  ],
+  "Ops Supervisor": [
+    "Shift Planning",
+    "Safety & Compliance"
+  ],
+  "Ops Manager": [
+    "SCM Overview",
+    "Operational Excellence"
+  ],
+  "Marketing Associate": [
+    "Content Marketing",
+    "SEO Basics"
+  ],
+  "Senior Marketing Associate": [
+    "Brand Storytelling",
+    "Campaign Analytics"
+  ],
+  "Brand Lead": [
+    "Creative Direction",
+    "Market Research"
+  ],
+  "Marketing Manager": [
+    "Go-To-Market Strategy",
+    "Media Planning"
+  ]
+}

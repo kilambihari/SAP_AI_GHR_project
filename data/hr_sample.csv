@@ -1,0 +1,501 @@
+Employee_ID,Age,Gender,Department,Education,Years_at_Company,Trainings_Completed,Certifications,Salary_LPA,Promotion_Last_Year,Past_Performance_Rating,Role_History,Current_Role
+1,32,M,Sales,Bachelors,3,2,0,6.5,0,Medium,Senior Sales Associate,Senior Sales Associate
+2,30,F,HR,Bachelors,3,0,1,5.4,0,Low,HRBP > HR Manager > HR Manager > HR Manager,HR Manager
+3,32,M,HR,Bachelors,5,0,1,4.1,1,Medium,Senior HR Executive > HRBP,HRBP
+4,27,M,Marketing,Masters,3,3,0,6.7,0,Medium,Senior Marketing Associate,Senior Marketing Associate
+5,24,M,Operations,Bachelors,0,3,0,5.5,0,Medium,Ops Associate > Ops Associate,Ops Associate
+6,25,F,Sales,Bachelors,3,4,0,5.1,0,Medium,Team Lead (Sales) > Sales Manager,Sales Manager
+7,30,M,Sales,Bachelors,3,3,1,5.2,0,Medium,Sales Associate,Sales Associate
+8,22,M,HR,Bachelors,3,2,0,5.4,0,Medium,HR Executive > HR Executive > Senior HR Executive,Senior HR Executive
+9,22,M,Operations,Diploma,3,4,0,6.0,0,Low,Ops Associate > Senior Ops Associate > Senior Ops Associate > Ops Supervisor,Ops Supervisor
+10,36,M,Marketing,Bachelors,1,4,0,6.5,0,Low,Senior Marketing Associate > Brand Lead,Brand Lead
+11,27,F,HR,Bachelors,5,0,0,4.6,0,Low,HR Executive > Senior HR Executive,Senior HR Executive
+12,28,F,Operations,Diploma,2,6,0,5.9,0,High,Ops Supervisor > Ops Supervisor,Ops Supervisor
+13,34,F,Sales,Masters,3,7,0,3.5,0,Medium,Sales Associate,Sales Associate
+14,27,M,Marketing,Bachelors,1,4,0,6.0,0,Medium,Brand Lead > Marketing Manager,Marketing Manager
+15,36,F,Engineering,Masters,6,4,1,7.3,0,High,Junior Engineer > Engineer > Senior Engineer > Tech Lead,Tech Lead
+16,28,F,HR,Bachelors,3,2,0,4.3,0,Medium,Senior HR Executive > Senior HR Executive > Senior HR Executive,Senior HR Executive
+17,23,M,Engineering,Masters,2,8,1,6.4,1,Medium,Senior Engineer > Tech Lead,Tech Lead
+18,27,M,Sales,Diploma,5,3,0,6.9,0,Medium,Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+19,30,F,Sales,Bachelors,4,3,0,5.7,1,High,Sales Associate > Senior Sales Associate,Senior Sales Associate
+20,31,F,Engineering,Bachelors,8,2,0,9.4,1,Medium,Engineer > Engineer > Senior Engineer,Senior Engineer
+21,13,F,Sales,Bachelors,1,4,0,5.5,0,High,Sales Associate > Sales Associate,Sales Associate
+22,35,F,Operations,Bachelors,5,3,0,7.4,0,Medium,Ops Associate,Ops Associate
+23,27,M,Finance,Bachelors,4,1,1,6.9,0,Medium,Analyst > Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+24,18,M,Operations,Bachelors,6,3,0,7.4,0,Medium,Ops Supervisor > Ops Supervisor > Ops Manager,Ops Manager
+25,30,F,Marketing,Masters,5,3,1,6.9,0,Medium,Brand Lead > Marketing Manager,Marketing Manager
+26,31,F,Operations,Bachelors,2,3,1,7.8,0,Medium,Ops Associate > Ops Associate > Senior Ops Associate,Senior Ops Associate
+27,27,M,Marketing,Masters,4,2,1,5.1,0,Low,Brand Lead > Marketing Manager > Marketing Manager,Marketing Manager
+28,36,M,Sales,Bachelors,2,3,0,5.1,0,Low,Sales Associate > Sales Associate > Sales Associate,Sales Associate
+29,27,M,Engineering,Diploma,0,5,0,8.0,0,Low,Senior Engineer > Senior Engineer,Senior Engineer
+30,36,M,HR,Masters,7,0,0,9.9,0,Low,Senior HR Executive,Senior HR Executive
+31,26,M,Finance,Bachelors,1,1,0,8.5,0,Low,Analyst > Analyst > Analyst,Analyst
+32,23,F,Finance,Masters,7,1,0,10.2,0,Low,Analyst,Analyst
+33,35,F,HR,Bachelors,3,1,0,6.1,0,Medium,HRBP > HRBP,HRBP
+34,27,F,Engineering,Bachelors,5,3,0,7.2,0,Medium,Engineer > Senior Engineer,Senior Engineer
+35,34,M,Marketing,Masters,2,2,0,7.7,0,Low,Brand Lead,Brand Lead
+36,21,F,Marketing,Bachelors,6,5,1,7.6,0,High,Marketing Associate > Senior Marketing Associate > Brand Lead > Brand Lead,Brand Lead
+37,31,M,Operations,Bachelors,2,4,0,4.6,0,Low,Ops Associate > Senior Ops Associate,Senior Ops Associate
+38,28,M,Operations,Bachelors,2,1,0,4.1,0,Low,Ops Associate,Ops Associate
+39,26,M,HR,Bachelors,5,3,0,7.5,0,Low,Senior HR Executive > HRBP,HRBP
+40,24,F,Finance,Diploma,0,4,0,5.2,0,Low,Senior Analyst > Team Lead (Finance) > Finance Manager,Finance Manager
+41,41,F,Marketing,Bachelors,6,2,0,8.7,0,High,Marketing Associate,Marketing Associate
+42,28,M,Marketing,Masters,0,2,1,5.4,0,Medium,Brand Lead > Marketing Manager > Marketing Manager,Marketing Manager
+43,32,F,Sales,Masters,2,4,0,6.1,0,Low,Team Lead (Sales) > Team Lead (Sales),Team Lead (Sales)
+44,33,M,Sales,Bachelors,4,4,0,5.9,0,Medium,Sales Associate > Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+45,32,F,Finance,Masters,3,4,0,7.8,0,High,Team Lead (Finance) > Finance Manager > Finance Manager,Finance Manager
+46,28,F,Sales,Masters,3,4,1,3.8,0,Medium,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+47,23,M,Operations,Bachelors,0,1,0,3.5,0,Low,Senior Ops Associate,Senior Ops Associate
+48,33,F,HR,Masters,8,2,0,9.5,0,Medium,HR Executive,HR Executive
+49,26,F,Finance,Bachelors,0,4,0,7.6,0,High,Team Lead (Finance),Team Lead (Finance)
+50,30,F,HR,Bachelors,5,3,0,6.3,0,Medium,HR Executive > HR Executive > Senior HR Executive,Senior HR Executive
+51,23,F,HR,Bachelors,7,3,1,10.3,0,High,HR Executive > Senior HR Executive,Senior HR Executive
+52,25,M,Marketing,Bachelors,4,6,1,7.4,0,Medium,Marketing Associate > Senior Marketing Associate > Brand Lead,Brand Lead
+53,28,F,Marketing,Diploma,1,3,1,5.8,0,Medium,Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+54,21,F,Operations,Bachelors,5,5,0,6.9,0,Medium,Ops Supervisor > Ops Manager,Ops Manager
+55,34,F,Engineering,Diploma,6,2,0,9.5,0,Medium,Junior Engineer > Junior Engineer,Junior Engineer
+56,30,M,HR,Masters,4,4,0,7.7,0,Medium,HR Executive > HR Executive > HR Executive,HR Executive
+57,22,F,Sales,Masters,6,1,1,8.8,0,Medium,Sales Associate,Sales Associate
+58,27,M,Sales,Masters,4,4,0,9.2,0,Medium,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+59,31,M,Marketing,Bachelors,5,4,0,9.4,0,Medium,Senior Marketing Associate,Senior Marketing Associate
+60,31,M,Marketing,Bachelors,5,3,0,6.5,0,Medium,Brand Lead,Brand Lead
+61,28,F,Operations,Masters,6,5,0,7.6,0,Low,Ops Supervisor > Ops Supervisor > Ops Manager,Ops Manager
+62,27,M,Finance,Bachelors,8,4,0,8.8,0,Medium,Analyst,Analyst
+63,23,F,Operations,Bachelors,3,7,0,7.0,1,High,Ops Associate > Senior Ops Associate,Senior Ops Associate
+64,36,F,Operations,Bachelors,3,1,0,7.6,0,Medium,Ops Associate,Ops Associate
+65,36,F,Operations,Diploma,2,3,0,5.9,0,Medium,Ops Supervisor > Ops Supervisor,Ops Supervisor
+66,27,M,Marketing,Masters,1,1,0,8.7,0,Low,Marketing Associate > Senior Marketing Associate > Brand Lead,Brand Lead
+67,27,M,Marketing,Bachelors,3,2,0,4.1,0,Low,Brand Lead > Brand Lead > Marketing Manager,Marketing Manager
+68,34,F,Marketing,Masters,3,2,1,7.8,0,High,Senior Marketing Associate,Senior Marketing Associate
+69,32,F,Sales,Bachelors,5,3,0,4.8,0,High,Team Lead (Sales) > Sales Manager > Sales Manager,Sales Manager
+70,31,F,Finance,Bachelors,0,2,0,6.7,0,Medium,Team Lead (Finance),Team Lead (Finance)
+71,30,M,Finance,Masters,2,3,1,7.9,0,Medium,Senior Analyst > Senior Analyst,Senior Analyst
+72,35,M,Marketing,Bachelors,4,1,0,7.2,0,Low,Marketing Associate > Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+73,28,F,Operations,Bachelors,2,4,0,5.8,0,Medium,Ops Supervisor,Ops Supervisor
+74,28,M,Operations,Bachelors,4,0,0,6.0,0,Medium,Ops Associate,Ops Associate
+75,27,M,Marketing,Bachelors,4,1,0,8.2,0,Low,Senior Marketing Associate > Senior Marketing Associate > Brand Lead > Brand Lead,Brand Lead
+76,26,F,Marketing,Masters,3,3,0,7.2,0,Medium,Marketing Associate,Marketing Associate
+77,24,M,HR,Diploma,5,4,0,6.4,0,Medium,Senior HR Executive > HRBP > HR Manager,HR Manager
+78,35,F,HR,Bachelors,2,4,0,4.8,1,Medium,HRBP > HR Manager,HR Manager
+79,32,M,Operations,Masters,3,2,0,4.3,0,Medium,Ops Associate,Ops Associate
+80,34,F,Finance,Bachelors,0,3,0,7.5,0,Medium,Analyst,Analyst
+81,28,M,Sales,Masters,3,2,1,5.9,0,Medium,Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+82,27,F,Engineering,Bachelors,6,4,0,9.7,0,High,Senior Engineer > Senior Engineer,Senior Engineer
+83,34,M,Sales,Bachelors,5,3,1,9.5,0,Medium,Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+84,28,M,Operations,Bachelors,8,4,0,6.4,0,High,Ops Supervisor > Ops Manager,Ops Manager
+85,27,M,Sales,Diploma,4,5,0,4.7,0,High,Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+86,23,F,Sales,Bachelors,0,4,0,5.3,0,Low,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+87,33,M,HR,Bachelors,0,2,1,5.5,0,Low,HR Executive,HR Executive
+88,29,F,Operations,Bachelors,5,2,0,7.5,0,Medium,Senior Ops Associate,Senior Ops Associate
+89,34,M,Engineering,Bachelors,6,5,0,9.5,0,Medium,Junior Engineer > Engineer,Engineer
+90,38,F,HR,Bachelors,5,2,0,6.6,0,Medium,HRBP > HRBP,HRBP
+91,25,M,Marketing,Bachelors,5,3,1,7.9,0,Medium,Senior Marketing Associate,Senior Marketing Associate
+92,33,F,Finance,Masters,2,4,1,7.4,0,High,Senior Analyst > Senior Analyst,Senior Analyst
+93,29,F,Finance,Masters,4,5,0,8.3,0,High,Team Lead (Finance) > Finance Manager > Finance Manager,Finance Manager
+94,34,F,Sales,Bachelors,1,4,0,3.5,1,High,Team Lead (Sales) > Team Lead (Sales),Team Lead (Sales)
+95,18,M,HR,Masters,2,2,0,3.6,0,Low,HRBP,HRBP
+96,34,M,Engineering,Bachelors,5,3,1,7.6,1,High,Junior Engineer,Junior Engineer
+97,21,M,Operations,Bachelors,3,3,0,4.8,0,Medium,Ops Associate > Senior Ops Associate,Senior Ops Associate
+98,27,M,Operations,Bachelors,5,4,1,7.4,0,Low,Ops Associate > Ops Associate,Ops Associate
+99,26,M,Sales,Bachelors,2,4,1,6.8,0,Medium,Senior Sales Associate > Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+100,27,M,Marketing,Masters,2,2,0,5.2,0,Low,Marketing Associate,Marketing Associate
+101,31,M,HR,Diploma,3,6,0,6.4,0,High,Senior HR Executive,Senior HR Executive
+102,21,M,Sales,Bachelors,7,5,0,8.6,0,Medium,Sales Associate > Senior Sales Associate,Senior Sales Associate
+103,22,F,Sales,Masters,1,3,1,7.0,0,Medium,Senior Sales Associate,Senior Sales Associate
+104,26,M,Engineering,Bachelors,6,4,1,9.5,0,High,Junior Engineer,Junior Engineer
+105,32,F,HR,Bachelors,4,2,0,5.3,0,Low,Senior HR Executive > HRBP > HR Manager,HR Manager
+106,24,M,Marketing,Bachelors,0,5,1,5.3,0,Medium,Senior Marketing Associate > Senior Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+107,29,F,HR,Bachelors,2,5,1,5.3,0,High,Senior HR Executive > HRBP > HRBP,HRBP
+108,26,F,Finance,Bachelors,4,2,1,7.9,0,Medium,Senior Analyst,Senior Analyst
+109,21,M,Sales,Bachelors,6,2,0,8.2,0,Medium,Team Lead (Sales),Team Lead (Sales)
+110,28,M,Marketing,Diploma,2,1,0,4.2,0,Medium,Senior Marketing Associate > Brand Lead,Brand Lead
+111,23,F,Engineering,Bachelors,3,4,0,7.7,0,Medium,Engineer > Senior Engineer,Senior Engineer
+112,34,F,Finance,Bachelors,3,1,0,5.5,0,Low,Analyst > Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+113,35,F,Marketing,Bachelors,2,4,1,5.2,0,High,Marketing Associate,Marketing Associate
+114,34,M,Marketing,Masters,2,3,1,7.2,0,Medium,Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+115,33,M,Sales,Masters,6,1,0,6.5,0,Low,Team Lead (Sales) > Team Lead (Sales) > Sales Manager,Sales Manager
+116,36,F,Marketing,Masters,0,1,0,6.3,0,Low,Marketing Associate > Marketing Associate > Senior Marketing Associate > Brand Lead,Brand Lead
+117,34,F,Sales,Bachelors,3,2,0,6.2,0,Medium,Senior Sales Associate,Senior Sales Associate
+118,24,M,HR,Bachelors,0,3,0,4.9,0,Medium,Senior HR Executive > Senior HR Executive > Senior HR Executive,Senior HR Executive
+119,28,M,Operations,Masters,7,4,1,7.5,0,High,Ops Supervisor > Ops Manager > Ops Manager > Ops Manager,Ops Manager
+120,27,F,HR,Bachelors,2,3,0,5.5,0,Low,HR Executive,HR Executive
+121,28,F,HR,Masters,2,4,0,5.6,1,Medium,Senior HR Executive > Senior HR Executive > HRBP,HRBP
+122,33,F,Finance,Masters,6,3,0,9.9,0,Medium,Senior Analyst,Senior Analyst
+123,22,M,Sales,Masters,6,2,0,7.6,0,Low,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+124,25,F,Operations,Bachelors,4,5,0,5.3,0,High,Ops Associate > Ops Associate,Ops Associate
+125,30,M,Sales,Bachelors,5,3,1,8.4,0,Low,Sales Associate > Sales Associate,Sales Associate
+126,33,M,Sales,Bachelors,7,3,1,7.1,0,Medium,Sales Associate > Sales Associate,Sales Associate
+127,27,M,HR,Masters,4,2,0,5.5,0,Low,HR Executive > Senior HR Executive > HRBP > HR Manager,HR Manager
+128,25,F,Finance,Masters,2,3,1,6.8,1,Medium,Senior Analyst > Team Lead (Finance) > Finance Manager,Finance Manager
+129,21,F,HR,Masters,1,0,0,5.0,0,Low,Senior HR Executive > Senior HR Executive > Senior HR Executive,Senior HR Executive
+130,25,F,Sales,Bachelors,5,4,1,6.0,0,Medium,Sales Associate > Senior Sales Associate,Senior Sales Associate
+131,28,M,Finance,Bachelors,4,1,0,6.1,0,Low,Analyst > Senior Analyst,Senior Analyst
+132,33,M,Finance,Diploma,8,3,1,8.4,0,Medium,Team Lead (Finance) > Team Lead (Finance) > Finance Manager,Finance Manager
+133,31,F,Finance,Bachelors,2,5,0,5.3,0,Low,Team Lead (Finance),Team Lead (Finance)
+134,27,F,Finance,Masters,6,3,1,10.6,0,High,Team Lead (Finance),Team Lead (Finance)
+135,16,F,HR,Bachelors,6,2,1,6.9,0,Medium,HRBP,HRBP
+136,25,M,Engineering,Bachelors,4,2,1,9.2,0,Medium,Senior Engineer,Senior Engineer
+137,31,M,Sales,Diploma,2,0,1,5.2,0,Low,Sales Associate,Sales Associate
+138,31,M,Marketing,Masters,3,3,1,6.5,1,High,Senior Marketing Associate,Senior Marketing Associate
+139,28,F,Sales,Bachelors,2,5,1,4.7,0,High,Senior Sales Associate,Senior Sales Associate
+140,25,M,Operations,Bachelors,5,2,0,6.4,0,Medium,Ops Associate,Ops Associate
+141,32,F,Operations,Masters,4,6,0,4.4,0,Low,Senior Ops Associate,Senior Ops Associate
+142,29,M,Sales,Diploma,2,4,1,6.7,1,High,Team Lead (Sales) > Sales Manager,Sales Manager
+143,32,M,HR,Bachelors,8,2,0,5.7,0,Medium,HR Executive,HR Executive
+144,34,M,Operations,Masters,7,1,0,7.7,1,Medium,Ops Associate > Senior Ops Associate,Senior Ops Associate
+145,31,M,Marketing,Masters,5,4,0,7.8,0,High,Marketing Associate,Marketing Associate
+146,37,M,Finance,Bachelors,3,2,1,7.0,0,Low,Team Lead (Finance) > Team Lead (Finance),Team Lead (Finance)
+147,30,M,Operations,Masters,3,3,0,3.5,0,Low,Ops Associate > Senior Ops Associate,Senior Ops Associate
+148,28,M,Operations,Masters,2,4,0,4.5,0,Medium,Ops Supervisor > Ops Manager,Ops Manager
+149,28,M,Operations,Bachelors,4,3,1,5.0,0,High,Ops Associate > Ops Associate > Ops Associate,Ops Associate
+150,27,M,Finance,Bachelors,4,1,0,7.3,0,Low,Senior Analyst,Senior Analyst
+151,34,F,Engineering,Bachelors,4,4,1,8.7,1,High,Junior Engineer > Junior Engineer,Junior Engineer
+152,30,M,Marketing,Diploma,2,0,0,5.8,0,Low,Senior Marketing Associate > Senior Marketing Associate > Brand Lead,Brand Lead
+153,35,F,HR,Bachelors,3,1,1,4.0,0,Medium,HRBP > HRBP > HR Manager,HR Manager
+154,33,F,Finance,Bachelors,0,4,0,4.8,1,Low,Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+155,21,M,Marketing,Bachelors,2,2,1,8.3,0,Medium,Marketing Associate,Marketing Associate
+156,24,F,Finance,Diploma,4,3,0,7.6,0,Low,Senior Analyst,Senior Analyst
+157,33,F,Sales,Bachelors,3,5,0,4.8,0,Medium,Senior Sales Associate,Senior Sales Associate
+158,27,M,Finance,Masters,6,3,0,8.6,1,High,Team Lead (Finance),Team Lead (Finance)
+159,28,M,Sales,Bachelors,8,5,0,8.2,0,Medium,Team Lead (Sales),Team Lead (Sales)
+160,21,M,Operations,Bachelors,6,0,1,6.4,0,Medium,Ops Associate > Ops Associate > Senior Ops Associate,Senior Ops Associate
+161,29,F,HR,Masters,4,3,1,6.4,0,Low,Senior HR Executive > Senior HR Executive,Senior HR Executive
+162,40,F,Sales,Bachelors,1,3,0,3.7,0,Medium,Team Lead (Sales) > Sales Manager > Sales Manager,Sales Manager
+163,41,M,Engineering,Masters,4,0,0,9.9,0,Medium,Engineer > Engineer,Engineer
+164,36,F,HR,Bachelors,2,4,0,5.2,0,Medium,HRBP,HRBP
+165,33,F,Operations,Masters,6,2,0,7.0,0,Low,Senior Ops Associate,Senior Ops Associate
+166,35,F,Operations,Bachelors,7,0,0,8.1,0,Medium,Senior Ops Associate > Senior Ops Associate > Ops Supervisor,Ops Supervisor
+167,21,M,Marketing,Bachelors,2,5,0,6.8,0,Low,Marketing Associate,Marketing Associate
+168,26,F,Marketing,Bachelors,5,6,0,5.9,0,Medium,Marketing Associate > Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+169,25,M,HR,Bachelors,5,1,1,7.3,0,High,Senior HR Executive > HRBP,HRBP
+170,29,F,Sales,Bachelors,4,7,0,6.7,0,Medium,Sales Associate > Senior Sales Associate,Senior Sales Associate
+171,34,M,Marketing,Masters,6,4,1,7.1,0,High,Brand Lead > Marketing Manager,Marketing Manager
+172,22,M,Engineering,Bachelors,3,1,1,9.7,0,Medium,Junior Engineer > Engineer,Engineer
+173,33,F,Operations,Bachelors,1,1,0,4.2,0,Medium,Ops Associate > Senior Ops Associate,Senior Ops Associate
+174,35,M,Marketing,Masters,5,2,0,7.4,1,Medium,Brand Lead > Marketing Manager,Marketing Manager
+175,29,F,HR,Bachelors,4,6,1,6.9,1,High,Senior HR Executive > HRBP,HRBP
+176,25,F,Operations,Bachelors,5,6,1,4.9,1,High,Ops Supervisor,Ops Supervisor
+177,26,F,Engineering,Bachelors,2,2,1,7.8,0,Medium,Engineer,Engineer
+178,28,M,Sales,Bachelors,3,4,0,4.8,0,Medium,Senior Sales Associate,Senior Sales Associate
+179,31,F,Engineering,Diploma,5,1,0,7.7,0,Low,Senior Engineer > Tech Lead > Tech Lead,Tech Lead
+180,33,M,Sales,Masters,4,2,0,6.5,0,Medium,Sales Associate,Sales Associate
+181,18,F,HR,Bachelors,5,2,0,6.5,0,Medium,HR Executive > Senior HR Executive,Senior HR Executive
+182,30,F,HR,Bachelors,4,7,0,4.9,0,High,HRBP > HRBP > HRBP,HRBP
+183,35,F,Operations,Masters,4,3,1,6.5,0,Medium,Senior Ops Associate > Ops Supervisor,Ops Supervisor
+184,26,F,Operations,Bachelors,4,3,1,4.8,0,Low,Ops Supervisor,Ops Supervisor
+185,33,M,Sales,Masters,1,7,1,4.4,0,High,Senior Sales Associate > Team Lead (Sales) > Team Lead (Sales),Team Lead (Sales)
+186,39,M,Marketing,Bachelors,0,6,1,4.8,0,Low,Marketing Associate,Marketing Associate
+187,27,M,Operations,Bachelors,4,3,0,7.5,0,Medium,Ops Supervisor > Ops Manager,Ops Manager
+188,29,M,Engineering,Bachelors,5,2,0,8.0,0,Medium,Junior Engineer,Junior Engineer
+189,36,M,Finance,Masters,5,2,1,7.4,0,Medium,Team Lead (Finance) > Finance Manager > Finance Manager > Finance Manager,Finance Manager
+190,33,M,Sales,Bachelors,2,2,1,3.7,0,Medium,Senior Sales Associate,Senior Sales Associate
+191,35,F,Engineering,Masters,2,2,0,9.1,0,Medium,Junior Engineer,Junior Engineer
+192,27,M,Engineering,Diploma,5,1,0,7.9,0,Medium,Junior Engineer > Engineer,Engineer
+193,18,M,Marketing,Bachelors,3,3,1,6.3,0,Medium,Brand Lead > Brand Lead,Brand Lead
+194,18,M,Marketing,Bachelors,6,3,1,8.1,0,Medium,Brand Lead,Brand Lead
+195,31,M,Engineering,Masters,5,5,0,9.1,0,Medium,Senior Engineer,Senior Engineer
+196,29,F,Operations,Masters,5,3,0,6.2,0,Medium,Ops Supervisor > Ops Supervisor > Ops Supervisor,Ops Supervisor
+197,28,M,HR,Masters,1,1,0,5.3,0,Low,HR Executive > Senior HR Executive > HRBP > HRBP,HRBP
+198,31,M,HR,Bachelors,1,1,0,6.9,0,Low,Senior HR Executive > HRBP,HRBP
+199,29,F,Sales,Bachelors,2,1,0,7.4,0,Medium,Team Lead (Sales) > Team Lead (Sales),Team Lead (Sales)
+200,24,M,Marketing,Bachelors,2,3,1,6.7,0,Medium,Senior Marketing Associate > Brand Lead,Brand Lead
+201,23,F,Finance,Masters,7,5,0,8.8,0,High,Senior Analyst,Senior Analyst
+202,29,M,Engineering,Bachelors,5,2,0,10.9,0,Medium,Junior Engineer,Junior Engineer
+203,31,M,Marketing,Diploma,5,2,0,7.1,0,Low,Senior Marketing Associate > Brand Lead,Brand Lead
+204,33,M,Finance,Bachelors,3,3,0,8.4,0,Low,Analyst > Senior Analyst,Senior Analyst
+205,34,M,Finance,Bachelors,3,4,0,9.6,0,Low,Senior Analyst > Team Lead (Finance) > Finance Manager,Finance Manager
+206,26,M,HR,Bachelors,4,3,0,5.3,0,Medium,HR Executive > HR Executive > HR Executive,HR Executive
+207,28,F,Engineering,Masters,6,0,1,11.6,0,Low,Junior Engineer,Junior Engineer
+208,26,F,HR,Masters,6,5,0,8.2,0,Low,Senior HR Executive > Senior HR Executive,Senior HR Executive
+209,27,M,Sales,Bachelors,0,0,0,3.5,0,Low,Team Lead (Sales) > Sales Manager,Sales Manager
+210,33,M,Finance,Bachelors,4,3,0,8.3,0,Medium,Team Lead (Finance),Team Lead (Finance)
+211,42,F,Engineering,Bachelors,4,1,0,9.8,0,Medium,Engineer > Engineer > Senior Engineer,Senior Engineer
+212,26,M,Engineering,Bachelors,1,1,1,7.3,0,High,Senior Engineer,Senior Engineer
+213,27,F,Marketing,Masters,1,2,0,8.7,0,Low,Senior Marketing Associate,Senior Marketing Associate
+214,31,F,Marketing,Masters,7,5,0,7.0,0,Medium,Senior Marketing Associate > Brand Lead > Marketing Manager,Marketing Manager
+215,28,F,Sales,Bachelors,5,2,0,8.4,0,Low,Sales Associate > Senior Sales Associate,Senior Sales Associate
+216,23,M,Engineering,Diploma,1,5,0,7.1,1,High,Engineer > Senior Engineer > Tech Lead,Tech Lead
+217,36,M,Operations,Masters,4,3,0,5.5,0,Medium,Senior Ops Associate > Senior Ops Associate,Senior Ops Associate
+218,38,F,Sales,Masters,6,3,1,6.4,0,Medium,Sales Associate,Sales Associate
+219,30,M,Operations,Bachelors,5,2,1,8.1,0,Medium,Senior Ops Associate > Senior Ops Associate,Senior Ops Associate
+220,30,F,Engineering,Masters,0,4,1,6.8,0,High,Engineer > Senior Engineer,Senior Engineer
+221,31,F,Finance,Diploma,0,7,1,6.6,1,Medium,Team Lead (Finance) > Finance Manager > Finance Manager > Finance Manager,Finance Manager
+222,33,M,Finance,Masters,5,2,0,9.5,0,Low,Team Lead (Finance),Team Lead (Finance)
+223,31,M,Engineering,Bachelors,4,2,1,6.5,0,Low,Junior Engineer > Junior Engineer,Junior Engineer
+224,31,M,Marketing,Bachelors,1,4,0,5.2,0,Low,Senior Marketing Associate > Brand Lead,Brand Lead
+225,39,F,Sales,Bachelors,2,3,0,7.0,0,Medium,Team Lead (Sales) > Team Lead (Sales),Team Lead (Sales)
+226,23,M,Engineering,Masters,8,1,0,10.0,0,Low,Engineer > Engineer > Engineer,Engineer
+227,35,F,Sales,Bachelors,4,2,0,6.1,0,Medium,Sales Associate > Sales Associate,Sales Associate
+228,24,F,Operations,Masters,5,3,1,7.1,0,High,Ops Supervisor > Ops Manager > Ops Manager,Ops Manager
+229,27,F,Marketing,Masters,3,4,0,5.6,0,Low,Senior Marketing Associate > Brand Lead > Marketing Manager,Marketing Manager
+230,31,M,Marketing,Bachelors,4,1,0,7.5,0,Low,Senior Marketing Associate,Senior Marketing Associate
+231,27,F,Operations,Bachelors,4,2,1,4.1,0,Medium,Senior Ops Associate,Senior Ops Associate
+232,24,F,Marketing,Bachelors,4,2,0,7.9,0,Low,Senior Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+233,35,F,Engineering,Masters,5,5,0,11.0,0,Medium,Engineer > Senior Engineer > Senior Engineer,Senior Engineer
+234,27,F,Marketing,Masters,0,1,1,5.5,0,Low,Senior Marketing Associate > Brand Lead > Brand Lead,Brand Lead
+235,25,F,Operations,Diploma,5,4,1,8.5,0,High,Senior Ops Associate,Senior Ops Associate
+236,27,M,HR,Diploma,6,4,0,7.4,0,Medium,Senior HR Executive > Senior HR Executive > Senior HR Executive,Senior HR Executive
+237,23,F,Marketing,Bachelors,2,2,0,6.8,0,Low,Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+238,29,F,Marketing,Bachelors,1,5,0,4.9,0,Low,Brand Lead > Marketing Manager > Marketing Manager,Marketing Manager
+239,26,M,Operations,Diploma,4,3,0,4.5,1,Medium,Ops Associate > Ops Associate > Senior Ops Associate,Senior Ops Associate
+240,34,F,Finance,Bachelors,7,1,0,9.1,0,Low,Team Lead (Finance) > Finance Manager > Finance Manager,Finance Manager
+241,35,M,Engineering,Bachelors,2,1,0,6.6,0,Low,Senior Engineer > Tech Lead,Tech Lead
+242,26,F,HR,Bachelors,2,4,0,5.9,0,High,Senior HR Executive > HRBP > HR Manager,HR Manager
+243,34,F,Operations,Diploma,3,5,0,7.0,0,Medium,Ops Supervisor > Ops Manager > Ops Manager > Ops Manager,Ops Manager
+244,21,F,Finance,Bachelors,4,7,0,8.4,0,Medium,Senior Analyst > Team Lead (Finance) > Team Lead (Finance),Team Lead (Finance)
+245,26,F,Finance,Bachelors,3,6,0,7.6,0,Medium,Team Lead (Finance) > Finance Manager,Finance Manager
+246,30,M,Operations,Masters,1,6,1,3.5,1,Medium,Ops Supervisor,Ops Supervisor
+247,26,F,Marketing,Bachelors,3,6,1,7.2,0,High,Marketing Associate > Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+248,20,M,Marketing,Diploma,2,1,0,6.7,0,Low,Brand Lead > Brand Lead,Brand Lead
+249,27,M,Engineering,Diploma,4,3,1,7.1,0,Medium,Senior Engineer > Tech Lead > Engineering Manager,Engineering Manager
+250,32,F,Sales,Diploma,3,3,0,4.8,0,Low,Senior Sales Associate,Senior Sales Associate
+251,27,M,Marketing,Bachelors,5,2,0,5.7,0,Medium,Senior Marketing Associate > Senior Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+252,27,F,HR,Bachelors,3,3,0,5.2,0,Low,Senior HR Executive,Senior HR Executive
+253,39,M,HR,Diploma,4,3,1,6.0,0,Medium,HR Executive > Senior HR Executive,Senior HR Executive
+254,39,M,Sales,Bachelors,4,4,1,4.2,0,Medium,Senior Sales Associate > Team Lead (Sales) > Sales Manager,Sales Manager
+255,33,M,Finance,Bachelors,0,0,0,5.9,0,Low,Analyst > Analyst > Senior Analyst,Senior Analyst
+256,37,M,Finance,Bachelors,1,4,0,6.2,0,Medium,Team Lead (Finance) > Finance Manager,Finance Manager
+257,28,F,Marketing,Masters,1,2,0,4.2,0,Low,Brand Lead > Brand Lead > Marketing Manager,Marketing Manager
+258,25,M,Marketing,Bachelors,2,0,1,5.5,1,Low,Brand Lead,Brand Lead
+259,29,F,Finance,Bachelors,3,4,0,6.9,0,Medium,Analyst > Analyst > Senior Analyst,Senior Analyst
+260,29,F,HR,Bachelors,2,2,1,5.3,0,Medium,HRBP > HRBP,HRBP
+261,26,M,Marketing,Bachelors,2,5,0,6.4,0,High,Senior Marketing Associate,Senior Marketing Associate
+262,32,M,Sales,Masters,3,2,0,7.4,0,Medium,Senior Sales Associate,Senior Sales Associate
+263,26,F,HR,Bachelors,6,1,1,8.0,0,High,HRBP > HRBP > HR Manager > HR Manager,HR Manager
+264,40,M,Marketing,Bachelors,2,2,0,5.2,0,Low,Brand Lead,Brand Lead
+265,33,F,Sales,Bachelors,2,2,1,6.9,0,Medium,Senior Sales Associate > Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+266,33,M,Sales,Bachelors,3,4,0,5.4,0,Medium,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+267,30,F,HR,Masters,3,6,1,7.2,0,High,HR Executive,HR Executive
+268,36,F,Marketing,Diploma,4,8,0,7.2,0,High,Brand Lead,Brand Lead
+269,33,F,Finance,Bachelors,1,1,1,7.8,0,Low,Team Lead (Finance),Team Lead (Finance)
+270,29,F,Operations,Bachelors,5,4,1,5.4,1,High,Ops Associate > Senior Ops Associate > Ops Supervisor > Ops Manager,Ops Manager
+271,19,F,HR,Bachelors,5,2,0,6.5,0,Medium,Senior HR Executive,Senior HR Executive
+272,20,F,Finance,Bachelors,3,5,1,6.3,0,High,Analyst > Senior Analyst > Senior Analyst,Senior Analyst
+273,33,F,HR,Masters,6,3,0,8.4,0,High,HRBP > HR Manager,HR Manager
+274,30,F,Operations,Bachelors,2,3,0,4.3,0,Medium,Senior Ops Associate,Senior Ops Associate
+275,24,F,Marketing,Masters,4,3,1,7.4,0,Medium,Marketing Associate,Marketing Associate
+276,33,M,Engineering,Bachelors,6,4,1,8.8,0,Medium,Senior Engineer,Senior Engineer
+277,25,F,Sales,Bachelors,3,1,0,6.0,0,Medium,Senior Sales Associate,Senior Sales Associate
+278,39,F,HR,Diploma,2,5,0,3.5,0,High,HR Executive,HR Executive
+279,30,F,Engineering,Bachelors,3,1,0,7.2,0,Low,Senior Engineer > Senior Engineer,Senior Engineer
+280,26,F,Operations,Bachelors,3,2,1,6.6,0,High,Senior Ops Associate,Senior Ops Associate
+281,28,M,HR,Bachelors,5,2,1,5.3,0,Low,Senior HR Executive > HRBP,HRBP
+282,31,M,HR,Bachelors,3,2,0,3.5,0,Medium,HRBP,HRBP
+283,34,F,Marketing,Bachelors,4,2,1,7.2,0,High,Marketing Associate,Marketing Associate
+284,29,M,Marketing,Bachelors,5,0,0,7.1,0,Low,Brand Lead > Marketing Manager,Marketing Manager
+285,37,M,Sales,Bachelors,5,2,0,6.5,0,Low,Team Lead (Sales) > Sales Manager,Sales Manager
+286,28,F,Finance,Bachelors,5,1,0,9.3,0,High,Analyst > Analyst,Analyst
+287,30,F,Operations,Bachelors,1,0,1,4.6,1,Medium,Ops Associate,Ops Associate
+288,21,F,Finance,Bachelors,4,4,0,9.0,0,High,Team Lead (Finance) > Team Lead (Finance),Team Lead (Finance)
+289,32,M,HR,Diploma,4,2,0,6.6,0,Low,HRBP > HR Manager > HR Manager,HR Manager
+290,25,F,Finance,Masters,1,4,0,6.8,0,Medium,Senior Analyst,Senior Analyst
+291,34,M,Operations,Bachelors,2,1,0,4.9,0,Medium,Senior Ops Associate > Senior Ops Associate,Senior Ops Associate
+292,25,F,Finance,Diploma,7,5,0,8.6,0,High,Senior Analyst > Team Lead (Finance) > Finance Manager,Finance Manager
+293,24,M,Engineering,Bachelors,5,1,1,8.8,0,Low,Senior Engineer,Senior Engineer
+294,36,F,Finance,Bachelors,4,2,0,9.8,0,Low,Analyst,Analyst
+295,28,F,Operations,Diploma,4,1,0,5.6,0,Low,Ops Associate,Ops Associate
+296,33,M,Finance,Bachelors,1,2,0,7.8,0,Low,Senior Analyst > Team Lead (Finance) > Finance Manager,Finance Manager
+297,25,M,Engineering,Bachelors,2,3,0,7.9,0,Low,Junior Engineer > Engineer > Engineer,Engineer
+298,29,F,Finance,Bachelors,5,7,0,7.7,1,High,Analyst,Analyst
+299,20,M,Finance,Masters,1,0,0,7.0,0,Low,Team Lead (Finance),Team Lead (Finance)
+300,34,F,Marketing,Bachelors,3,2,0,6.3,0,Medium,Brand Lead > Marketing Manager,Marketing Manager
+301,39,F,Marketing,Bachelors,2,2,0,6.1,0,Low,Marketing Associate,Marketing Associate
+302,32,M,Finance,Bachelors,2,0,1,6.5,0,Medium,Senior Analyst,Senior Analyst
+303,28,M,Operations,Masters,5,5,0,9.5,0,Medium,Ops Supervisor,Ops Supervisor
+304,25,M,Finance,Bachelors,3,4,1,7.2,1,Medium,Senior Analyst,Senior Analyst
+305,28,M,Sales,Masters,7,3,0,7.9,0,High,Team Lead (Sales) > Team Lead (Sales) > Team Lead (Sales),Team Lead (Sales)
+306,26,F,HR,Bachelors,0,2,0,3.5,0,Medium,HRBP > HRBP > HRBP > HR Manager,HR Manager
+307,34,F,HR,Bachelors,2,1,0,5.2,0,Low,HR Executive,HR Executive
+308,27,M,Engineering,Diploma,3,1,0,5.1,0,Low,Engineer > Senior Engineer,Senior Engineer
+309,32,F,Engineering,Bachelors,3,2,1,5.8,0,Medium,Senior Engineer > Tech Lead > Engineering Manager,Engineering Manager
+310,35,M,Finance,Bachelors,0,3,0,6.7,0,Medium,Analyst > Analyst,Analyst
+311,30,F,Engineering,Bachelors,1,3,0,7.3,0,Low,Junior Engineer > Junior Engineer,Junior Engineer
+312,31,F,Engineering,Bachelors,4,0,0,9.4,0,Low,Engineer > Engineer,Engineer
+313,31,F,Engineering,Bachelors,2,0,0,8.6,0,Low,Senior Engineer,Senior Engineer
+314,26,M,Finance,Diploma,2,2,0,7.9,0,Low,Analyst > Senior Analyst,Senior Analyst
+315,36,M,Marketing,Masters,2,5,0,8.1,0,Medium,Brand Lead > Marketing Manager > Marketing Manager,Marketing Manager
+316,37,M,Engineering,Masters,4,4,0,6.9,0,Low,Senior Engineer > Senior Engineer,Senior Engineer
+317,36,M,Marketing,Bachelors,3,2,0,5.6,0,Medium,Brand Lead,Brand Lead
+318,29,M,Marketing,Diploma,4,3,1,8.4,0,Medium,Brand Lead > Brand Lead,Brand Lead
+319,38,M,Sales,Masters,4,9,0,7.2,0,High,Team Lead (Sales) > Team Lead (Sales),Team Lead (Sales)
+320,35,M,HR,Bachelors,3,3,1,7.3,1,Medium,HRBP > HRBP,HRBP
+321,26,M,Operations,Bachelors,3,3,1,4.3,0,Medium,Ops Associate,Ops Associate
+322,38,M,HR,Bachelors,5,2,1,5.4,0,High,HR Executive,HR Executive
+323,31,M,Finance,Bachelors,3,2,0,5.4,0,Low,Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+324,27,M,Operations,Bachelors,0,5,1,6.2,0,Medium,Ops Supervisor,Ops Supervisor
+325,28,M,Finance,Diploma,3,4,0,6.8,0,Medium,Analyst > Senior Analyst,Senior Analyst
+326,29,F,Engineering,Bachelors,5,4,0,9.9,0,Low,Engineer,Engineer
+327,37,M,Operations,Masters,5,4,1,6.4,0,Medium,Senior Ops Associate,Senior Ops Associate
+328,40,M,HR,Bachelors,6,2,0,7.8,0,Low,HR Executive > HR Executive,HR Executive
+329,33,F,Sales,Masters,0,6,0,4.3,0,Medium,Team Lead (Sales) > Sales Manager,Sales Manager
+330,32,M,Engineering,Bachelors,2,3,1,7.1,0,Medium,Junior Engineer > Engineer,Engineer
+331,31,F,Finance,Bachelors,0,2,0,5.1,0,Medium,Analyst,Analyst
+332,28,M,Sales,Bachelors,5,5,0,6.3,0,Medium,Sales Associate > Sales Associate,Sales Associate
+333,16,M,Sales,Diploma,2,2,0,7.7,0,Low,Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+334,20,F,Marketing,Bachelors,1,3,0,6.8,0,Medium,Senior Marketing Associate,Senior Marketing Associate
+335,28,M,Operations,Diploma,2,7,0,7.5,0,Medium,Ops Associate,Ops Associate
+336,23,M,Engineering,Diploma,4,2,0,9.0,0,Medium,Engineer,Engineer
+337,31,F,Marketing,Masters,2,2,1,7.2,0,Medium,Senior Marketing Associate > Brand Lead,Brand Lead
+338,29,F,Sales,Bachelors,6,3,0,8.2,0,Low,Team Lead (Sales),Team Lead (Sales)
+339,28,F,Sales,Bachelors,3,3,0,7.8,0,Medium,Sales Associate > Sales Associate,Sales Associate
+340,29,F,Finance,Masters,4,5,0,8.8,0,High,Senior Analyst,Senior Analyst
+341,25,M,Finance,Bachelors,0,3,0,4.3,0,Low,Analyst > Senior Analyst > Senior Analyst,Senior Analyst
+342,35,F,Marketing,Bachelors,2,3,0,5.7,0,Low,Senior Marketing Associate,Senior Marketing Associate
+343,31,F,Marketing,Bachelors,6,0,0,8.4,0,Low,Marketing Associate > Marketing Associate,Marketing Associate
+344,30,M,Finance,Bachelors,3,7,0,6.3,0,Medium,Team Lead (Finance) > Finance Manager > Finance Manager,Finance Manager
+345,27,M,Marketing,Bachelors,5,4,0,7.0,0,Medium,Brand Lead > Marketing Manager > Marketing Manager > Marketing Manager,Marketing Manager
+346,39,F,Operations,Masters,3,1,1,5.0,0,Low,Ops Associate,Ops Associate
+347,28,F,Finance,Masters,1,3,0,8.1,0,Medium,Senior Analyst > Senior Analyst,Senior Analyst
+348,33,F,Marketing,Diploma,3,1,0,6.0,0,Medium,Brand Lead,Brand Lead
+349,30,F,Engineering,Diploma,2,2,0,7.1,0,Low,Senior Engineer > Tech Lead,Tech Lead
+350,35,M,Sales,Bachelors,2,6,0,7.1,1,High,Senior Sales Associate,Senior Sales Associate
+351,18,F,Finance,Bachelors,5,5,0,8.3,0,Medium,Analyst > Analyst > Senior Analyst,Senior Analyst
+352,29,M,Finance,Bachelors,3,3,1,6.5,0,Medium,Team Lead (Finance) > Finance Manager,Finance Manager
+353,30,F,Engineering,Masters,4,3,1,7.7,0,Medium,Senior Engineer > Senior Engineer,Senior Engineer
+354,35,M,Finance,Bachelors,8,4,0,8.5,0,Medium,Team Lead (Finance),Team Lead (Finance)
+355,23,F,HR,Bachelors,1,2,1,3.5,0,Low,Senior HR Executive > HRBP > HR Manager,HR Manager
+356,28,F,HR,Bachelors,6,0,0,8.8,0,Low,HR Executive > Senior HR Executive,Senior HR Executive
+357,27,F,Engineering,Bachelors,1,2,0,6.9,0,Low,Senior Engineer > Tech Lead,Tech Lead
+358,28,F,Engineering,Bachelors,6,3,0,9.7,1,Medium,Engineer > Senior Engineer,Senior Engineer
+359,21,F,Operations,Bachelors,2,4,1,6.4,0,Medium,Senior Ops Associate,Senior Ops Associate
+360,21,M,Operations,Bachelors,5,5,0,6.7,0,Low,Ops Associate,Ops Associate
+361,29,M,Sales,Bachelors,2,2,0,4.0,0,Medium,Sales Associate > Senior Sales Associate,Senior Sales Associate
+362,26,M,Marketing,Masters,5,2,1,4.9,0,Medium,Brand Lead > Brand Lead,Brand Lead
+363,30,F,Finance,Bachelors,6,4,0,7.7,0,Medium,Senior Analyst,Senior Analyst
+364,29,M,Marketing,Bachelors,4,4,0,7.4,0,High,Senior Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+365,36,F,Marketing,Diploma,6,4,0,8.2,0,High,Marketing Associate > Senior Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+366,26,F,Finance,Masters,0,7,0,7.5,0,Medium,Analyst,Analyst
+367,35,M,Sales,Bachelors,3,2,1,5.3,0,Low,Senior Sales Associate,Senior Sales Associate
+368,32,F,HR,Diploma,5,4,1,5.0,1,High,Senior HR Executive > Senior HR Executive,Senior HR Executive
+369,30,F,Marketing,Diploma,1,3,1,5.5,0,Medium,Brand Lead > Brand Lead,Brand Lead
+370,34,M,Engineering,Bachelors,1,2,0,5.8,0,Low,Engineer > Engineer,Engineer
+371,33,F,Finance,Bachelors,4,3,0,8.2,0,Low,Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+372,33,F,Finance,Bachelors,2,7,0,4.8,0,Medium,Analyst,Analyst
+373,29,F,Engineering,Masters,4,2,0,8.4,0,Low,Senior Engineer,Senior Engineer
+374,27,F,Engineering,Bachelors,6,4,0,10.6,0,Medium,Junior Engineer > Engineer,Engineer
+375,29,F,Engineering,Bachelors,3,1,1,7.1,0,Low,Engineer,Engineer
+376,21,M,Sales,Bachelors,0,6,0,5.5,0,Medium,Senior Sales Associate,Senior Sales Associate
+377,33,M,Engineering,Bachelors,6,1,1,9.2,1,Medium,Engineer > Senior Engineer > Senior Engineer,Senior Engineer
+378,26,M,Marketing,Bachelors,2,4,1,5.3,0,Medium,Brand Lead,Brand Lead
+379,28,M,HR,Bachelors,2,3,0,6.8,0,Medium,Senior HR Executive,Senior HR Executive
+380,30,M,Marketing,Masters,2,3,0,7.2,0,Medium,Senior Marketing Associate > Senior Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+381,28,F,Engineering,Bachelors,4,2,0,9.7,0,Medium,Senior Engineer > Senior Engineer > Tech Lead,Tech Lead
+382,30,F,Sales,Bachelors,3,1,0,5.7,0,Medium,Team Lead (Sales) > Sales Manager > Sales Manager > Sales Manager,Sales Manager
+383,27,M,Engineering,Bachelors,1,1,0,6.6,0,Low,Junior Engineer > Engineer,Engineer
+384,19,M,Engineering,Bachelors,0,6,0,7.3,0,Medium,Engineer > Engineer,Engineer
+385,29,M,Engineering,Diploma,5,3,0,10.4,0,Medium,Engineer > Senior Engineer,Senior Engineer
+386,33,M,Marketing,Diploma,0,3,1,6.0,0,Medium,Senior Marketing Associate,Senior Marketing Associate
+387,29,M,Engineering,Bachelors,3,5,0,8.0,0,Medium,Senior Engineer,Senior Engineer
+388,34,M,Sales,Diploma,5,3,0,5.8,0,Low,Sales Associate,Sales Associate
+389,30,F,Marketing,Diploma,1,2,0,6.3,0,Low,Senior Marketing Associate > Senior Marketing Associate > Brand Lead,Brand Lead
+390,41,M,Marketing,Bachelors,6,0,1,7.6,0,Medium,Brand Lead > Marketing Manager,Marketing Manager
+391,34,F,Sales,Bachelors,5,2,0,7.2,0,Medium,Team Lead (Sales) > Sales Manager,Sales Manager
+392,30,M,Operations,Diploma,5,6,1,7.0,0,Medium,Senior Ops Associate,Senior Ops Associate
+393,30,F,Finance,Diploma,4,1,0,8.1,0,Low,Team Lead (Finance),Team Lead (Finance)
+394,33,F,Finance,Masters,2,3,0,7.4,0,Low,Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+395,18,F,HR,Bachelors,3,5,0,8.3,0,High,Senior HR Executive > HRBP,HRBP
+396,19,M,Engineering,Diploma,3,3,0,8.8,0,Low,Senior Engineer > Senior Engineer,Senior Engineer
+397,25,F,Sales,Bachelors,2,3,0,5.0,0,Medium,Senior Sales Associate > Team Lead (Sales) > Sales Manager,Sales Manager
+398,32,M,Finance,Bachelors,5,3,0,6.1,0,Medium,Analyst > Analyst,Analyst
+399,29,F,Sales,Bachelors,5,0,1,5.3,0,Medium,Team Lead (Sales) > Team Lead (Sales) > Team Lead (Sales) > Sales Manager,Sales Manager
+400,25,M,HR,Bachelors,3,3,0,5.5,0,Low,HRBP > HR Manager > HR Manager,HR Manager
+401,31,M,Operations,Bachelors,3,2,0,6.6,0,Low,Ops Supervisor,Ops Supervisor
+402,26,F,Sales,Masters,4,1,0,5.0,0,Low,Sales Associate,Sales Associate
+403,23,M,Sales,Bachelors,6,2,1,5.2,0,High,Sales Associate,Sales Associate
+404,32,F,Operations,Bachelors,5,1,0,8.2,0,Medium,Ops Supervisor > Ops Manager,Ops Manager
+405,30,M,Operations,Diploma,4,5,0,7.2,0,High,Ops Associate > Senior Ops Associate,Senior Ops Associate
+406,27,F,Finance,Bachelors,4,2,1,7.0,0,Low,Senior Analyst,Senior Analyst
+407,28,F,Engineering,Bachelors,2,1,0,8.2,0,Low,Senior Engineer > Tech Lead,Tech Lead
+408,26,F,Engineering,Bachelors,2,2,0,8.9,0,Low,Senior Engineer,Senior Engineer
+409,40,M,Operations,Bachelors,5,2,1,6.8,0,High,Ops Supervisor,Ops Supervisor
+410,30,M,HR,Bachelors,4,7,1,5.2,0,High,Senior HR Executive > Senior HR Executive,Senior HR Executive
+411,29,M,Engineering,Diploma,5,5,0,7.9,0,High,Senior Engineer > Senior Engineer,Senior Engineer
+412,19,M,HR,Bachelors,2,5,0,5.5,0,Medium,HR Executive,HR Executive
+413,25,M,HR,Diploma,6,3,0,6.5,0,Medium,Senior HR Executive > HRBP,HRBP
+414,26,M,HR,Bachelors,5,2,0,7.8,0,Medium,HRBP,HRBP
+415,37,M,Finance,Diploma,5,1,0,5.5,0,Medium,Team Lead (Finance),Team Lead (Finance)
+416,30,F,Marketing,Bachelors,5,4,1,5.7,0,High,Senior Marketing Associate,Senior Marketing Associate
+417,33,F,Engineering,Masters,5,3,0,11.6,0,Medium,Junior Engineer,Junior Engineer
+418,39,M,HR,Bachelors,2,2,0,5.1,0,Medium,HR Executive > HR Executive,HR Executive
+419,28,F,Marketing,Bachelors,5,2,0,6.8,0,Medium,Senior Marketing Associate > Senior Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+420,32,F,Marketing,Diploma,3,2,1,8.0,0,Medium,Senior Marketing Associate > Brand Lead,Brand Lead
+421,30,F,Sales,Bachelors,2,5,0,5.3,0,Medium,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+422,20,M,Engineering,Masters,2,2,0,6.3,0,Low,Junior Engineer > Engineer > Engineer,Engineer
+423,23,M,Finance,Masters,2,4,0,7.6,0,Medium,Analyst > Analyst,Analyst
+424,31,M,Operations,Diploma,3,3,0,6.2,0,Low,Ops Associate > Senior Ops Associate > Ops Supervisor > Ops Manager,Ops Manager
+425,33,M,Marketing,Bachelors,2,1,0,6.2,0,Low,Senior Marketing Associate > Brand Lead > Brand Lead,Brand Lead
+426,36,M,Engineering,Bachelors,5,8,0,10.1,1,High,Senior Engineer > Tech Lead > Engineering Manager,Engineering Manager
+427,33,M,Sales,Masters,1,3,1,5.4,0,Low,Team Lead (Sales) > Sales Manager,Sales Manager
+428,34,M,HR,Bachelors,5,2,0,7.0,1,Low,HR Executive > Senior HR Executive > Senior HR Executive,Senior HR Executive
+429,24,F,Operations,Masters,5,2,1,4.5,1,High,Ops Associate,Ops Associate
+430,28,F,Finance,Bachelors,4,4,0,6.6,0,Low,Senior Analyst,Senior Analyst
+431,32,M,Finance,Bachelors,2,3,1,6.7,0,High,Team Lead (Finance),Team Lead (Finance)
+432,24,F,Marketing,Diploma,4,5,0,7.1,0,Medium,Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+433,40,F,Engineering,Masters,4,3,0,8.1,0,High,Senior Engineer > Tech Lead,Tech Lead
+434,33,F,Finance,Bachelors,3,1,1,7.2,0,Medium,Team Lead (Finance) > Finance Manager,Finance Manager
+435,25,M,Operations,Masters,5,2,0,9.1,0,Low,Ops Supervisor,Ops Supervisor
+436,33,M,Finance,Bachelors,0,5,0,5.6,0,Low,Analyst,Analyst
+437,39,F,Operations,Bachelors,6,1,0,7.6,1,Medium,Ops Associate > Senior Ops Associate,Senior Ops Associate
+438,33,F,Sales,Diploma,0,5,0,6.3,0,Low,Senior Sales Associate,Senior Sales Associate
+439,27,M,HR,Masters,1,3,0,3.5,0,Low,Senior HR Executive > HRBP > HR Manager,HR Manager
+440,22,M,Marketing,Bachelors,3,2,0,5.4,0,Medium,Marketing Associate > Marketing Associate,Marketing Associate
+441,24,F,Operations,Bachelors,3,3,0,6.9,0,Medium,Ops Supervisor > Ops Supervisor,Ops Supervisor
+442,21,M,HR,Bachelors,2,1,0,6.8,0,Low,HRBP > HR Manager,HR Manager
+443,38,F,Operations,Diploma,7,5,0,9.3,1,Medium,Ops Supervisor,Ops Supervisor
+444,31,F,Engineering,Diploma,3,3,1,8.7,0,Medium,Junior Engineer,Junior Engineer
+445,31,M,Operations,Bachelors,2,2,0,5.8,0,Low,Ops Supervisor > Ops Supervisor,Ops Supervisor
+446,23,F,Marketing,Diploma,4,1,1,6.0,0,Medium,Senior Marketing Associate > Senior Marketing Associate > Brand Lead,Brand Lead
+447,33,F,Sales,Bachelors,2,4,0,5.3,0,Low,Sales Associate,Sales Associate
+448,37,F,Engineering,Bachelors,5,3,0,10.3,0,Medium,Senior Engineer > Senior Engineer > Tech Lead,Tech Lead
+449,22,F,Engineering,Masters,5,1,1,6.7,0,Medium,Engineer,Engineer
+450,27,F,Marketing,Bachelors,0,2,0,5.1,0,Low,Marketing Associate > Senior Marketing Associate > Brand Lead,Brand Lead
+451,27,M,HR,Diploma,1,5,1,4.0,0,Low,HRBP > HRBP > HRBP,HRBP
+452,23,F,Finance,Masters,2,2,0,7.1,0,Medium,Team Lead (Finance) > Finance Manager,Finance Manager
+453,31,F,Engineering,Bachelors,4,5,1,9.1,0,High,Engineer,Engineer
+454,20,F,Operations,Masters,3,5,0,5.4,0,Medium,Ops Supervisor > Ops Supervisor > Ops Manager > Ops Manager,Ops Manager
+455,34,M,Finance,Bachelors,3,2,0,9.3,0,Low,Analyst > Senior Analyst,Senior Analyst
+456,26,M,Engineering,Bachelors,4,5,0,9.5,0,Medium,Engineer > Engineer,Engineer
+457,27,F,Engineering,Masters,6,3,1,8.1,0,Low,Senior Engineer > Tech Lead,Tech Lead
+458,32,M,Finance,Bachelors,5,2,0,7.2,0,Low,Team Lead (Finance) > Team Lead (Finance),Team Lead (Finance)
+459,33,M,Marketing,Bachelors,2,3,1,6.9,0,Low,Brand Lead > Marketing Manager > Marketing Manager,Marketing Manager
+460,38,F,Finance,Bachelors,0,3,1,7.7,1,Low,Analyst,Analyst
+461,27,M,HR,Bachelors,5,4,0,6.1,0,Medium,Senior HR Executive > HRBP,HRBP
+462,23,F,Operations,Masters,2,1,0,5.4,0,Low,Ops Supervisor > Ops Manager,Ops Manager
+463,30,F,Marketing,Bachelors,3,1,1,8.4,0,Medium,Brand Lead,Brand Lead
+464,32,F,Sales,Diploma,3,3,0,5.9,0,Medium,Team Lead (Sales),Team Lead (Sales)
+465,32,M,Engineering,Bachelors,2,1,1,8.1,0,Low,Engineer > Senior Engineer > Tech Lead,Tech Lead
+466,25,M,Engineering,Masters,1,3,0,8.1,0,Medium,Senior Engineer > Senior Engineer,Senior Engineer
+467,42,F,Marketing,Diploma,1,4,0,4.1,0,Medium,Senior Marketing Associate,Senior Marketing Associate
+468,15,F,Sales,Bachelors,6,6,1,5.4,1,High,Sales Associate > Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+469,27,M,Marketing,Bachelors,8,2,0,5.0,0,Low,Senior Marketing Associate,Senior Marketing Associate
+470,35,M,Marketing,Bachelors,8,3,0,8.2,0,Medium,Senior Marketing Associate,Senior Marketing Associate
+471,29,M,Engineering,Bachelors,0,5,1,6.7,0,Medium,Junior Engineer > Junior Engineer > Junior Engineer,Junior Engineer
+472,28,M,Operations,Masters,2,4,0,4.9,0,Medium,Ops Supervisor,Ops Supervisor
+473,25,F,Sales,Masters,5,2,0,8.1,1,Medium,Team Lead (Sales) > Sales Manager > Sales Manager,Sales Manager
+474,31,M,Sales,Masters,4,3,0,4.7,0,Medium,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+475,20,F,Sales,Masters,0,1,0,4.0,0,Medium,Sales Associate > Senior Sales Associate,Senior Sales Associate
+476,31,M,Finance,Bachelors,2,5,0,6.8,0,Low,Senior Analyst > Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+477,32,F,Operations,Bachelors,6,2,0,7.0,0,High,Ops Associate > Senior Ops Associate > Ops Supervisor > Ops Manager,Ops Manager
+478,30,F,Finance,Bachelors,3,4,0,6.5,0,Medium,Team Lead (Finance),Team Lead (Finance)
+479,23,F,Finance,Diploma,4,4,1,7.6,0,Medium,Team Lead (Finance) > Finance Manager,Finance Manager
+480,28,M,Finance,Bachelors,0,3,0,4.5,0,Low,Senior Analyst,Senior Analyst
+481,25,M,Finance,Bachelors,5,2,1,8.2,0,Medium,Team Lead (Finance) > Team Lead (Finance),Team Lead (Finance)
+482,25,M,Operations,Diploma,4,3,0,8.6,0,Medium,Ops Associate > Senior Ops Associate > Ops Supervisor,Ops Supervisor
+483,36,M,Sales,Bachelors,8,2,0,9.3,0,Low,Senior Sales Associate > Team Lead (Sales),Team Lead (Sales)
+484,31,F,Finance,Bachelors,1,3,0,5.3,0,Low,Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+485,25,F,Operations,Bachelors,4,2,1,5.2,0,Medium,Senior Ops Associate,Senior Ops Associate
+486,29,F,Sales,Bachelors,4,1,0,5.0,0,Medium,Sales Associate > Senior Sales Associate > Senior Sales Associate,Senior Sales Associate
+487,29,F,Marketing,Bachelors,5,1,0,7.6,1,Medium,Marketing Associate,Marketing Associate
+488,35,F,Operations,Bachelors,7,1,1,4.6,0,Medium,Senior Ops Associate,Senior Ops Associate
+489,30,F,HR,Diploma,3,9,0,6.3,0,Medium,HR Executive,HR Executive
+490,36,F,Operations,Diploma,4,3,0,7.2,0,Medium,Ops Associate > Ops Associate,Ops Associate
+491,19,F,Engineering,Bachelors,3,8,0,7.9,0,High,Junior Engineer,Junior Engineer
+492,36,F,Operations,Bachelors,4,3,0,6.6,0,Low,Senior Ops Associate > Ops Supervisor > Ops Manager > Ops Manager,Ops Manager
+493,30,F,Finance,Diploma,5,4,0,6.1,0,Medium,Senior Analyst > Team Lead (Finance),Team Lead (Finance)
+494,34,F,HR,Masters,4,1,0,6.9,0,Low,Senior HR Executive,Senior HR Executive
+495,41,M,Operations,Bachelors,3,5,0,6.5,0,High,Ops Associate > Ops Associate > Ops Associate,Ops Associate
+496,34,F,HR,Bachelors,1,4,0,3.6,0,Low,HRBP > HRBP > HR Manager,HR Manager
+497,30,F,Sales,Diploma,3,4,1,7.8,0,Medium,Sales Associate > Sales Associate,Sales Associate
+498,42,F,Marketing,Bachelors,3,2,0,5.7,1,Medium,Marketing Associate > Senior Marketing Associate > Brand Lead > Marketing Manager,Marketing Manager
+499,33,F,Marketing,Diploma,6,3,1,9.2,0,High,Marketing Associate > Senior Marketing Associate,Senior Marketing Associate
+500,30,F,Finance,Masters,3,2,0,8.1,0,Medium,Analyst,Analyst
